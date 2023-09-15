@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O site Móveis Customizados é um projeto que tem como objetivo ensinar os fundamentos essenciais de HTML e CSS. Além disso, concentramos nossos esforços em garantir que o código seja desenvolvido de maneira semanticamente correta.
 
-- [Acesse o projeto finalizado, online](https://jp-xaxa.github.io/)
+- [Acesse o projeto finalizado, online](https://jp-xaxa.github.io/explore-projeto1/)
 
 ## 🔖 Layout
 
